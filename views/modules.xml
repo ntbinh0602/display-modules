@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="modules" name="Modules Page">&lt;!DOCTYPE html&gt;
+        <html lang="en">
+            <head>
+                <title>Mobifone</title>
+                <meta charset="utf-8"/>
+                <meta name="viewport" content="width=device-width, initial-scale=1"/>
+                <link type="image" rel="shortcut icon" href="/code_theme/static/img/favicon.ico.jpg"/>
+            </head>
+            <body>
+                <div class="container">
+                    <div class="wrapper">
+                        <div class="card">
+                            <!-- <t t-foreach="datas" t-as="data">
+                                <p>
+                                    <t t-esc="data.result"/>
+                                </p>
+                            </t> -->
+                            <h1>alo</h1>
+                        </div>
+                    </div>
+                </div>
+            </body>
+        </html>
+    </template>
+</odoo>
